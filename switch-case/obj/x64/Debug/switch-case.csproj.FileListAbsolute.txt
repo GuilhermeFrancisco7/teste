@@ -1,0 +1,10 @@
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\bin\x64\Debug\switch-case.exe.config
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\bin\x64\Debug\switch-case.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\bin\x64\Debug\switch-case.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch-case.csproj.AssemblyReference.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch_case.Properties.Resources.resources
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch-case.csproj.GenerateResource.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch-case.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch-case.exe
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch-case.pdb
+C:\Users\guilherme.falmeida7\source\programadordesistemas\switch-case\obj\x64\Debug\switch_case.frmswitch.resources
